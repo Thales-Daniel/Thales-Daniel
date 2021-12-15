@@ -69,7 +69,7 @@
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/thales-daniel-007068225" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/thales-daniel/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="ericksilvadev" height="30" width="40" /></a>
+      alt="thales-daniel" height="30" width="40" /></a>
 </p>
