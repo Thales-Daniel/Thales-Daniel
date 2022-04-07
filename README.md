@@ -1,75 +1,95 @@
-<h1 align="center">Hello, I'm Thales!</h1>
-<h3 align="center">I am a future Brazilian full-stack developer.</h3>
+###  Olá Mundo, sou Thales Daniel
 
-<div>
-  <a href="https://github.com/Thales-Daniel">
-  <img height="160em" width="43%" src="https://github-readme-stats.vercel.app/api?username=Thales-Daniel&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-  <img height="164em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Daniel&layout=compact&langs_count=7&theme=react" />
-</div>
+<p align="start" >
+  <samp>
+  	<br>Estou em busca da minha primeira oportunidade de trabalho como desenvolvedor,
+  	<br>almejo um ambiente acolhedor, projetos desafiadores em que eu possa aprimorar 
+  	<br>e continuar aprendendo novas tecnologias.
+    <br>
+  	<br>Sou apaixonado e entusiasta por tecnologia,
+  	<br>finalizei o curso de Desenvolvimento Web na Trybe
+    <br>e ingressei no curso de Sistemas De informação 
+    <br>e estou me dedicando no aprendizado de
+  	<br>HTML5, CSS3, JavaScript ES6, React.js, Redux.js,
+  	<br>MySQL, MongoDB, Node.js e Python.
+  </samp>
+</p>
 
+---
+<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="380px"/>
 
-<h2 align="center">Languages and Tools</h2>
+#### **Um pouco mais sobre mim:**
+
+- 💬 Posso passar horas conversando sobre:
+    - viagens, música, filmes, séries, jogos e tecnologia.
+- 🎵 Ouço bastante:
+    - System of a down, AC-DC, Matanza, Tim Maia.
+- 🎬 Não canso de assistir:
+    - How I Met Your Mother, As vantagens de ser invisível, Avatar - A lenda de Aang .
+- 📺 Animes que mais gostei:
+    - Boku no hero, One Piece, Hunter x Hunter, Ousama Ranking e .
+- 🎮 Não tenho jogado ultimamente, mas curto:
+    - Dota 2, CS:GO, God Of War, Rust e um monte de Rougue Like.
+
+---
+### 🛠️ Habilidades técnicas (linguagens e frameworks):
+- Front-end:
+<p align="left">
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  
+</p>
+
+- Back-end:
+<p align="left">
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"/>
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"/>
+</p>
+
+- Banco de dados:
+<p align="left">
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
+</p>
+
+- Deploy:
+<p align="left">
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg""/>
+</p>
+
+- Versionamento:
+<p align="left">
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</p>
+
+- Outras:
+<p align="left">
+  <img width="60" height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+  <img width="60" height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img width="60" height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> 
+  
+</p>
+
+---
+
 <div align="center">
-  <h3 align="center">Front-end</h3>
-  <p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
-    <a href="https://redux.js.org" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://jestjs.io" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-    </a>
-  </p>
-  <h3 align="center">Back-end</h3>
-  <p>
-    <a href="https://nodejs.org/en/" target="_blank">
-   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="slack" width="40" height="40"/>
-  </a>
-    <a href="https://expressjs.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-    </a>
-    <a href="https://mochajs.org" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-    </a>
-  </p>
-  <h3 align="center">Others</h3>
-  <p>
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-    </a>
-  </p>
+  <a href="https://github.com/Thales-Daniel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thales-Daniel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Daniel&layout=compact&langs_count=7&theme=react"/>
 </div>
-
-<h2 align="center">Connect with me</h2>
+  
+---
+###  <img src="https://bit.ly/handshake-gif" height="25px"/> Informações de contato
 <p align="center">
-  <a href="https://www.linkedin.com/in/thales-daniel/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="thales-daniel" height="30" width="40" /></a>
+    <a href = "mailto:thalesdanielomenabatista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+   <a href="https://www.linkedin.com/in/thales-daniel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
