@@ -8,8 +8,8 @@
     <br>
   	<br>Sou apaixonado e entusiasta por tecnologia,
   	<br>finalizei o curso de Desenvolvimento Web na Trybe
-    <br>e ingressei no curso de Sistemas De informação 
-    <br>e estou me dedicando no aprendizado de
+    <br>e ingressei no curso de Sistemas De informação, 
+    <br>estou me dedicando no aprendizado de
   	<br>HTML5, CSS3, JavaScript ES6, React.js, Redux.js,
   	<br>MySQL, MongoDB, Node.js e Python.
   </samp>
