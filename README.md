@@ -25,9 +25,9 @@
 - 🎵 Ouço bastante:
     - System of a down, AC-DC, Matanza, Tim Maia.
 - 🎬 Não canso de assistir:
-    - How I Met Your Mother, As vantagens de ser invisível, Avatar - A lenda de Aang .
+    - How I Met Your Mother, As vantagens de ser invisível, Avatar - A lenda de Aang.
 - 📺 Animes que mais gostei:
-    - Boku no hero, One Piece, Hunter x Hunter, Ousama Ranking e .
+    - Boku no hero, One Piece, Hunter x Hunter, Ousama Ranking e Bakuman.
 - 🎮 Não tenho jogado ultimamente, mas curto:
     - Dota 2, CS:GO, God Of War, Rust e um monte de Rougue Like.
 
