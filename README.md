@@ -9,7 +9,7 @@
   	<br>Sou apaixonado e entusiasta por tecnologia,
   	<br>finalizei o curso de Desenvolvimento Web na Trybe
     <br>e ingressei no curso de Sistemas De informação, 
-    <br>estou me dedicando no aprendizado de a busca
+    <br>estou me dedicando no aprendizado e a busca
     <br>do tão sonhado emprego na área.
   </samp>
 </p>
