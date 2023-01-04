@@ -2,7 +2,7 @@
 
 <p align="start" >
   <samp>
-  	<br>Estou em busca da minha primeira oportunidade de trabalho como desenvolvedor,
+  	<br>Estou em busca de oportunidade de trabalho como desenvolvedor,
   	<br>almejo um ambiente acolhedor, projetos desafiadores em que eu possa aprimorar 
   	<br>e continuar aprendendo novas tecnologias.
     <br>
