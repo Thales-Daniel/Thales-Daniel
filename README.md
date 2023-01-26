@@ -1,5 +1,5 @@
 ###  Olá Mundo, sou Thales Daniel
-
+<img src="https://komarev.com/ghpvc/?username=Thales-Daniel&color=orange" alt="thalesdaniel"/> 
 <p align="start" >
   <samp>
   	<br>Estou em busca de oportunidade de trabalho como desenvolvedor,
@@ -14,19 +14,8 @@
   </samp>
 </p>
 
----
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="380px"/>
 
-#### **Um pouco mais sobre mim:**
-
-- 🎵 Ouço bastante:
-    - System of a down, AC-DC, Matanza, Tim Maia.
-- 🎬 Não canso de assistir:
-    - How I Met Your Mother, As vantagens de ser invisível, Avatar - A lenda de Aang.
-- 📺 Animes que mais gostei:
-    - Boku no hero, One Piece, Hunter x Hunter, Ousama Ranking e Bakuman.
-- 🎮 Não tenho jogado ultimamente, mas curto:
-    - Dota 2, CS:GO, God Of War, Rust e um monte de Rougue Like.
 
 ---
 ### 🛠️ Habilidades técnicas (linguagens e frameworks):
